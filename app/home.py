@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 st.title('Dashboard RH')
-df = pd.read_csv('../data/DatasetRHTratado.csv')
+df = pd.read_csv('data/DatasetRHTratado.csv')
 
 df['Idade'] = pd.to_numeric(df['Idade'], errors='coerce')
 
