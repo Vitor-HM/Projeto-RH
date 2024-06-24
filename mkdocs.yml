@@ -1,0 +1,6 @@
+site_name: Documentação Projeto RH
+theme:
+  name: material
+  palette:
+    primary: blue
+  language: pt
