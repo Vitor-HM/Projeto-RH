@@ -11,7 +11,7 @@
 1. Clone o repositorio
 ```bash
 git clone https://github.com/Vitor-HM/Projeto-RH
-cd projetoRH
+cd Projeto-RH
 ```
 
 2. **Crie um ambiente virtual (opcional, mas recomendado):**
